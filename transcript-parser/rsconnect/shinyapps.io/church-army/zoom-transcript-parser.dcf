@@ -1,0 +1,12 @@
+name: zoom-transcript-parser
+title: zoom-transcript-parser
+username: church-army
+account: church-army
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10408771
+bundleId: 7886351
+url: https://church-army.shinyapps.io/zoom-transcript-parser/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
